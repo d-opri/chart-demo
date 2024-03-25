@@ -105,3 +105,8 @@ a {
     color-scheme: dark;
   }
 }
+
+.chart-container {
+  width: 800px; /* Set the width of the chart */
+  height: 600px; /* Set the height of the chart */
+}
